@@ -152,7 +152,7 @@ The dataset contains transaction-level records for a coffee shop chain operating
 
 ## Author
 
-**Your Name**
+**Saquib Patel**
 [LinkedIn](https://www.linkedin.com/in/saquibpatel/)
 
 ---
