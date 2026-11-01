@@ -153,7 +153,7 @@ The dataset contains transaction-level records for a coffee shop chain operating
 ## Author
 
 **Your Name**
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/saquibpatel/)
 
 ---
  If you found this project useful, consider giving it a star!
